@@ -1,1 +1,1 @@
-# User Session Analysis - Python 
+# User Session Analysis - Python + PostgreSQL 
